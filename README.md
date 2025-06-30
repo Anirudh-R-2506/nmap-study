@@ -1,7 +1,5 @@
 # Nmap Study Guide
 
-![Nmap Logo](screenshots/nmap-logo.png)
-
 ## What is Nmap?
 
 Nmap (Network Mapper) is a free and open-source tool for network discovery and security auditing. It is widely used by cybersecurity professionals and network administrators to map networks, discover hosts and services, and identify vulnerabilities.
@@ -50,8 +48,14 @@ Or download from [nmap.org/download.html](https://nmap.org/download.html).
 
 ## Screenshots
 
-![Nmap Scan Example](screenshots/scan-example.png)
-_Figure: Example output of a simple Nmap scan._
+![Nmap Scan 1](screenshots/Screenshot 2025-07-01 at 12.59.37 AM.png)
+_Figure: Example of a basic Nmap scan._
+
+![Nmap Scan 2](screenshots/Screenshot 2025-07-01 at 1.01.33 AM.png)
+_Figure: Example of a service/version detection scan._
+
+![Nmap Scan 3](screenshots/Screenshot 2025-07-01 at 1.02.34 AM.png)
+_Figure: Example of an aggressive scan with OS and script detection._
 
 ## Sample Use Case: Scanning a Local Network
 
